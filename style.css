@@ -1,0 +1,14 @@
+.main-container {
+    display: inline-flex;
+    width: 100%;
+    text-align: center;
+  }
+  .main-container div {
+    width: 40%;
+    border: 2px solid dodgerblue;
+    height: 350px;
+  }
+  #delete{
+    align-items: end;
+  }
+  
